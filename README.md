@@ -90,7 +90,7 @@ The Region Performance Dashboard provides a visual overview of regional sales an
 
 ## 👩‍💻 Author
 
-**Diya Goel**
+**Bhagya**
 
 VEDA Technology Data Analytics Internship
 
